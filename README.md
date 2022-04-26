@@ -9,7 +9,7 @@ Hi! My name is Emmey Leo, I am currently a student at the Queensland University 
 I plan on doing a Major in Computer Science with a minor in Creative Writing. My furture plans are to ultimately be able to create things that can entertain people.
 
 ## Technologies and Tools
-![windows](https://img.shields.io/badge/OS-Windows-green?logo=windows) ![editor](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-green?logo=visualstudiocode) ![python](https://img.shields.io/badge/Code-Python-green?logo=python) ![JS](https://img.shields.io/badge/Code-JavaScript-green?logo=javascript) ![HTML5](https://img.shields.io/badge/Code-HTML-green?logo=html5) ![css](https://img.shields.io/badge/Code-CSS-green?logo=css3) ![php](https://img.shields.io/badge/Code-PHP-green?logo=php) ![C#](https://img.shields.io/badge/Code-C%23-green?logo=csharp) ![Unity](https://img.shields.io/badge/Engine-Unity-green?logo=unity)
+![windows](https://img.shields.io/badge/OS-Windows-green?logo=windows) ![editor](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-green?logo=visualstudiocode) ![python](https://img.shields.io/badge/Code-Python-green?logo=python) ![JS](https://img.shields.io/badge/Code-JavaScript-green?logo=javascript) ![HTML5](https://img.shields.io/badge/Code-HTML-green?logo=html5) ![css](https://img.shields.io/badge/Code-CSS-green?logo=css3) ![php](https://img.shields.io/badge/Code-PHP-green?logo=php) ![sql](https://img.shields.io/badge/Code-MySQL-green?logo=mysql) ![C#](https://img.shields.io/badge/Code-C%23-green?logo=csharp) ![Unity](https://img.shields.io/badge/Engine-Unity-green?logo=unity)
 
 ## Stats
 
