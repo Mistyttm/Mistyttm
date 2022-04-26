@@ -13,8 +13,12 @@ I plan on doing a Major in Computer Science with a minor in Creative Writing. My
 
 ## Stats
 
-[![Emmey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mistyttm&show_icons=true&count_private=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mistyttm&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mistyttm&show_icons=true&count_private=true&theme=shades-of-purple" />
+</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mistyttm&layout=compact&theme=shades-of-purple" />
+</a>
 
 ## Socials
 [![linkedin](https://img.shields.io/badge/-LinkedIn-%230A66C2?logo=linkedin)](https://au.linkedin.com/in/emmey-Leo-aa2356224) [![instagram](https://img.shields.io/badge/-Instagram-yellow?logo=instagram)](https://www.instagram.com/misty_dev_ttm) [![twitter](https://img.shields.io/badge/-twitter-lightblue?logo=twitter)](https://twitter.com/Misty_TTM)
