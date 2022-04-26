@@ -15,7 +15,7 @@ I plan on doing a Major in Computer Science with a minor in Creative Writing. My
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mistyttm&show_icons=true&count_private=true&theme=shades-of-purple" />
-</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mistyttm&layout=compact&theme=shades-of-purple" />
 </a>
