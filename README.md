@@ -17,4 +17,4 @@ I plan on doing a Major in Computer Science with a minor in Creative Writing. My
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mistyttm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Socials
-![github](https://img.shields.io/badge/-LinkedIn-%230A66C2?logo=linkedin&link=https://au.linkedin.com/in/emmey-Leo-aa2356224) ![instagram](https://img.shields.io/badge/-Instagram-yellow?logo=instagram&link=https://www.instagram.com/misty_dev_ttm) ![twitter](https://img.shields.io/badge/-twitter-lightblue?logo=twitter&link=https://twitter.com/Misty_TTM)
+[![linkedin](https://img.shields.io/badge/-LinkedIn-%230A66C2?logo=linkedin)](https://au.linkedin.com/in/emmey-Leo-aa2356224) [![instagram](https://img.shields.io/badge/-Instagram-yellow?logo=instagram)](https://www.instagram.com/misty_dev_ttm) [![twitter](https://img.shields.io/badge/-twitter-lightblue?logo=twitter)](https://twitter.com/Misty_TTM)
