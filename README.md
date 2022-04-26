@@ -13,7 +13,7 @@ I plan on doing a Major in Computer Science with a minor in Creative Writing. My
 
 ## Stats
 
-[![Emmey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mistyttm&show_icons=true&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
+[![Emmey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mistyttm&show_icons=true&count_private=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mistyttm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Socials
