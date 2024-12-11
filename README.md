@@ -1,7 +1,4 @@
-# Hi there, I'm Emmey!
-
-Pronouns: ![Pronouns](https://img.shields.io/badge/she%2Fher-pink?style=for-the-badge)
-
+# Hi there, I'm Emmey! ![Pronouns](https://img.shields.io/badge/she%2Fher-pink?style=for-the-badge)
 
 Hi! My name is Emmey Rose, I'm a fourth year student at QUT studying a bachelor of IT
 
