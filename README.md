@@ -1,15 +1,16 @@
 # Hi there, I'm Emmey!
 
-Pronouns: ![pronouns](https://img.shields.io/badge/-she%2Fher%2Fthey%2Fthem-ff69b4)
+Pronouns: ![Pronouns](https://img.shields.io/badge/she%2Fher-pink?style=for-the-badge)
 
-Hi! My name is Emmey Leo, I am currently a student at the Queensland University of Technology and studying in my first semester of a Bachelor of Information Technology.
+
+Hi! My name is Emmey Rose, I'm a fourth year student at QUT studying a bachelor of IT
 
 ## A bit about me :)
 
-I plan on doing a Major in Computer Science with a minor in Creative Writing. My furture plans are to ultimately be able to create things that can entertain people.
+I'm majoring in computer science, I enjoy web development, game development and general linux development.
 
 ## Technologies and Tools
-![windows](https://img.shields.io/badge/OS-Windows-green?logo=windows) ![editor](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-green?logo=visualstudiocode) ![python](https://img.shields.io/badge/Code-Python-green?logo=python) ![JS](https://img.shields.io/badge/Code-JavaScript-green?logo=javascript) ![HTML5](https://img.shields.io/badge/Code-HTML-green?logo=html5) ![css](https://img.shields.io/badge/Code-CSS-green?logo=css3) ![php](https://img.shields.io/badge/Code-PHP-green?logo=php) ![sql](https://img.shields.io/badge/Code-MySQL-green?logo=mysql) ![C#](https://img.shields.io/badge/Code-C%23-green?logo=csharp) ![Unity](https://img.shields.io/badge/Engine-Unity-green?logo=unity)
+![NixOs](https://img.shields.io/badge/nixos-lightblue?style=for-the-badge&logo=nixos) ![Node.js](https://img.shields.io/badge/nodejs-lightgreen?style=for-the-badge&logo=nodedotjs&logoColor=darkgreen) ![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwind-darkblue?style=for-the-badge&logo=tailwindcss&logoColor=lightblue) 
 
 ## Stats
 
